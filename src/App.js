@@ -66,13 +66,6 @@ const App = () => {
             </Grid>
           </Grid>
         </Container>
-        <div>
-          <Grid>
-            <Typography className={classes.paragraph}>
-              
-            </Typography>
-          </Grid>
-        </div>
       </main>
     </>
   )
